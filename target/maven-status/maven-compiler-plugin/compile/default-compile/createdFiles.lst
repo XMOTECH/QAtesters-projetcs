@@ -1,1 +1,13 @@
 com\example\Main.class
+com\example\transport\CargaisonMaritime.class
+com\example\transport\ICoutTransport.class
+com\example\transport\Marchandise.class
+com\example\assurance\TypePolice.class
+com\example\transport\Cargaison.class
+com\example\transport\CargaisonAerienne.class
+com\example\assurance\CompagnieAssurance.class
+com\example\assurance\Sinistre.class
+com\example\assurance\PoliceAssurance.class
+com\example\assurance\Client.class
+com\example\assurance\StatutSinistre.class
+com\example\transport\CargaisonRoutiere.class
