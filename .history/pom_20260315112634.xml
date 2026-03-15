@@ -27,18 +27,10 @@
             <version>1.18.38</version>
             <scope>provided</scope>
         </dependency>
-
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
-            <version>7.14.0</version>
-            <scope>test</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-junit</artifactId>
-            <version>7.14.0</version>
+            <version>7.34.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
